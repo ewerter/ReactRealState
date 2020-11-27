@@ -10,11 +10,11 @@ Referências sugeridas pelo time de desenvolvimento
 
 ### Definição de Tecnologias
 - [ ] Definir Tecnologias que serão utilizadas.
-  - [ ] Definir servidor de hospedagem (Windows x Linux)
-  - [ ] Definir provedor de hospedagem (Locaweb | BlueHost | AWS | Google Sites | Etc)
-  - [ ] Definir framework/linguagem front-end (React | WordPress | HTML+CSS+JQuery) 
-  - [ ] Definir framework/linguagem back-end (C# | Node.js | PHP)
-  - [ ] Definir banco de dados (SQL | NOSQL)
+  - [x] Definir servidor de hospedagem (Linux)
+  - [ ] Definir provedor de hospedagem (BlueHost | Google Sites)
+  - [x] Definir framework/linguagem front-end (React & WordPress) 
+  - [x] Definir framework/linguagem back-end (Node.js | PHP)
+  - [ ] Definir banco de dados (SQL | NOSQL) Pesquisar o 'Like' do noSQL
 
 --------------
 ### Modelagem do Banco de dados
